@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "congresso-aeicbas-260615",
+  "private_key_id": "e208b932a225389b3470e4405c0f61a9b3edf1ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcxHSr3FdeJLIS\nphtlC+4KXiiq0QvyB2HdQMqZdb1jEgRn1E8g8UhVai2yX1ldoi4gOPkLOcjACXPI\nX6zGxG7Q6Vco4dPrBIgARyfI+Obmpw+EM1T+mABvW+6KaZ2ppE8EGwKfHwyHVjTx\nB6Ut3XylBbsPjC/46827zsR62ux/vOlbFmzIrb76KYUba/OleP8xw1zR3eGMmykE\n/7+u59VEFSrjY9KHn0BSeXqFjh/zRrNIUv3LpaIsmf6EeiAQe2pvqUmFx0ShdrnV\nP8q24cnzUxJGzu7hnt1HiRdsrKGbAnlMTWLqMfaZImAZfSt0ZV1pWaXYGhYqto47\n5cWfqZLxAgMBAAECggEABFQSSpp7WRCXUBeBAyG4sVWXNtwtwcF9bL/4uBL9pyoc\nsAc3JhgzYJRdbaLfU0wCjQY1rh8q0U6RgVNO8HAFBUSkEO9nTAJkhOlyCkUBDxZG\nweYu7xagUHLP28d9wGzWd60NPfp7/JKfRJZq86C9a8sENrIusudD128mkqPPytkP\n1NgBIOuzgrHTUzvU7EokB1Q2xB3rbg2N3E+oiYsbFuwfw7wKdHKidWoHZvTgOe9T\nI7HMDnoHYFmGsi8T4sDuI5W0GLQQkQQM4iCwbjVgNrlUc6iEe4Ojgv4xZSTA0Sq3\n3geD0AH8paWGzMEBjU6z6CpAA5Xt4NRcFpiktvW1AQKBgQDc4emLVsa+bMkbHQsE\nNCjZe9hJ3A2CnXUnKcfrZEZVOjgF5UJMLT8Ggvcz2kEYi7tY6jPr+Unsruv/KX+i\nxlD5P03RcYbU3E+6tM8dfWBTFrtxa0ThAg/1QSEJlsiyiP8mE+0yYgKZvU9pNVhj\nHi7NwQzmwPsx3Un8JgwmmMe0EQKBgQC1sQK5jzY8+h+vqXicPOMqhms8ykiwbY8i\nxLiF0JaEWXv+vlpfBkGJ8xd87VSkijLZew/lbi51IwH07V3v1okavsZUBBnGjdGh\nX719WYGwAPIBoObpuMbbM+7BLcvjew23/IxaMX0nAiOvDXtkn3YfxNsLpt4r/nJ0\nGUiQlO9Q4QKBgGLaL/0OHvAGG5Ko0s9U0JtUk52qf9lewpl+V1x/igKGhaAN1Dfn\nX/d4EU4BdXSYxIWsewQ2kuD7/944Ikkk3ARQUnFTj3YgCwaR+MdH3x4QZF8EFNVm\naOHn/fMeqj9MlHPkIxmTR3qqgKmjGCVz0pp+tVloMINGd+AC3xk+8tEhAoGAc80P\n+YinfxHEJEeVUa8U8kOeEa6zyY7qjbRoDxG0/UGzX9ee7bWlC/Fd5Qe2zPAwHKDs\nrsQc5Bed5adsGbLYy60P5vh+HSjClWHZ+gyUNcNEe3k783cLdyaQY5t2udPyGHPk\nWI/2PmiEqcuj+6wOs4zaN4DxVYTlGc4Li+sA5MECgYEAhttZX2llXLzS5nZmmV8K\nFC4ogDEGhg56YjkGlmu3BZUT6DjnJ6pepQSrJvEYvmW0Qdvh6Pnv01PC1hm7Yn5d\n0VT70Sk2pnP+666bnqFC+E+HcT0H0YEzFsPRAEhFxhkL0kcwBr0ySn1Otw4lhRrp\nfHoSPBPF26qB53evV1wAQE8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-206@congresso-aeicbas-260615.iam.gserviceaccount.com",
+  "client_id": "109347198531575378354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-206%40congresso-aeicbas-260615.iam.gserviceaccount.com"
+}
